@@ -4,3 +4,10 @@
   box-sizing: border-box;
 }
 
+html, body {
+  background-color: #212121;
+
+  height: 100%;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove any padding that might cause issues */
+}
