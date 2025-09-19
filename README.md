@@ -1,1 +1,1 @@
-You can visite my project https://robqocharyan123.github.io/Skillex/
+You can visit my project https://robqocharyan123.github.io/Skillex/
